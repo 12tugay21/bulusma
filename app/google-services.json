@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397269796167",
+    "firebase_url": "https://fir-bulusma.firebaseio.com",
+    "project_id": "fir-bulusma",
+    "storage_bucket": "fir-bulusma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397269796167:android:ce170a412428a318f93862",
+        "android_client_info": {
+          "package_name": "com.example.bulusma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397269796167-uu5tlqavsuqn01hct4r27he9ht8q0s1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bulusma",
+            "certificate_hash": "4067df7ab8586eacdef57753d15df71797b42d0e"
+          }
+        },
+        {
+          "client_id": "397269796167-is6slu67sbsi0l7oso466gb4k35kfrg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSc5Dvst8MduSW8ePqjsIpKe5SPssgs3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397269796167-is6slu67sbsi0l7oso466gb4k35kfrg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

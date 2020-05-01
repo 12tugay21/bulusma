@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bulusma</string>
+    <string name="bize_katil">BİZE KATIL</string>
+    <string name="hesabim_var">HESABIM VAR</string>
+    <string name="Kullanici_adiniz">Kullanıcı Adınız</string>
+    <string name="e_postaniz">E-postanız</string>
+    <string name="sifreniz">Şifreniz</string>
+    <string name="numaraniz">Numaranız</string>
+    <string name="devam_et">DEVAM ET</string>
+</resources>
